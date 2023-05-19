@@ -44,6 +44,10 @@ import _StringProcessing
     @objc get
     @objc set
   }
+  @objc public var bundleForFaceTecString: Foundation.Bundle? {
+    @objc get
+    @objc set
+  }
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class AKFaceTecLowLightCustomization {

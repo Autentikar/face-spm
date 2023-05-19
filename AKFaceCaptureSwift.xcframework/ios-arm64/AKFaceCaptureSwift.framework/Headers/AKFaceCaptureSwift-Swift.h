@@ -301,6 +301,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) FaceTecCustomization *
 @class UIImage;
 @class UIColor;
 @class UIFont;
+@class NSBundle;
 
 SWIFT_CLASS("_TtC18AKFaceCaptureSwift26AKFaceCaptureCustomization")
 @interface AKFaceCaptureCustomization : NSObject
@@ -313,6 +314,7 @@ SWIFT_CLASS("_TtC18AKFaceCaptureSwift26AKFaceCaptureCustomization")
 @property (nonatomic, strong) UIColor * _Nonnull textColor;
 @property (nonatomic, strong) UIColor * _Nonnull activityViewColor;
 @property (nonatomic, strong) UIFont * _Nullable customFont;
+@property (nonatomic, strong) NSBundle * _Nullable bundleForFaceTecString;
 @end
 
 
