@@ -40,6 +40,10 @@ import _StringProcessing
     @objc get
     @objc set
   }
+  @objc public var customFont: UIKit.UIFont? {
+    @objc get
+    @objc set
+  }
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class AKFaceTecLowLightCustomization {

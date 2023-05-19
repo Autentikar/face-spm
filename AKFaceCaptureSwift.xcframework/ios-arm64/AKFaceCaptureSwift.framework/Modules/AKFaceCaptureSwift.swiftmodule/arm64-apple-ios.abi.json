@@ -677,6 +677,118 @@
                 "accessorKind": "_modify"
               }
             ]
+          },
+          {
+            "kind": "Var",
+            "name": "customFont",
+            "printedName": "customFont",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIFont?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@AKFaceCaptureSwift@objc(cs)AKFaceCaptureCustomization(py)customFont",
+            "mangledName": "$s18AKFaceCaptureSwift0aB13CustomizationC10customFontSo6UIFontCSgvp",
+            "moduleName": "AKFaceCaptureSwift",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIFont?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIFont",
+                        "printedName": "UIKit.UIFont",
+                        "usr": "c:objc(cs)UIFont"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AKFaceCaptureSwift@objc(cs)AKFaceCaptureCustomization(im)customFont",
+                "mangledName": "$s18AKFaceCaptureSwift0aB13CustomizationC10customFontSo6UIFontCSgvg",
+                "moduleName": "AKFaceCaptureSwift",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIFont?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIFont",
+                        "printedName": "UIKit.UIFont",
+                        "usr": "c:objc(cs)UIFont"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AKFaceCaptureSwift@objc(cs)AKFaceCaptureCustomization(im)setCustomFont:",
+                "mangledName": "$s18AKFaceCaptureSwift0aB13CustomizationC10customFontSo6UIFontCSgvs",
+                "moduleName": "AKFaceCaptureSwift",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18AKFaceCaptureSwift0aB13CustomizationC10customFontSo6UIFontCSgvM",
+                "mangledName": "$s18AKFaceCaptureSwift0aB13CustomizationC10customFontSo6UIFontCSgvM",
+                "moduleName": "AKFaceCaptureSwift",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
           }
         ],
         "declKind": "Class",
@@ -1477,63 +1589,63 @@
     {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-ios\/iOS_SPM\/AditionalSwift\/AKFaceSwift\/AKFaceCaptureSwift\/UI\/Module\/AKStepFaceCaptureViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2410,
+      "offset": 2536,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-ios\/iOS_SPM\/AditionalSwift\/AKFaceSwift\/AKFaceCaptureSwift\/UI\/Module\/AKStepFaceCaptureViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2995,
+      "offset": 3121,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-ios\/iOS_SPM\/AditionalSwift\/AKFaceSwift\/AKFaceCaptureSwift\/UI\/Module\/AKStepFaceCaptureViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3364,
+      "offset": 3490,
       "length": 3,
       "value": "-50"
     },
     {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-ios\/iOS_SPM\/AditionalSwift\/AKFaceSwift\/AKFaceCaptureSwift\/UI\/Module\/AKStepFaceCaptureViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3513,
+      "offset": 3639,
       "length": 9,
       "value": "\"FaceTec\""
     },
     {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-ios\/iOS_SPM\/AditionalSwift\/AKFaceSwift\/AKFaceCaptureSwift\/UI\/Module\/AKStepFaceCaptureViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3882,
+      "offset": 4008,
       "length": 19,
       "value": "\"EndingFaceCapture\""
     },
     {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-ios\/iOS_SPM\/AditionalSwift\/AKFaceSwift\/AKFaceCaptureSwift\/UI\/Module\/AKStepFaceCaptureViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4106,
+      "offset": 4232,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-ios\/iOS_SPM\/AditionalSwift\/AKFaceSwift\/AKFaceCaptureSwift\/UI\/Module\/AKStepFaceCaptureViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4302,
+      "offset": 4428,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-ios\/iOS_SPM\/AditionalSwift\/AKFaceSwift\/AKFaceCaptureSwift\/UI\/Module\/AKStepFaceCaptureViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4533,
+      "offset": 4659,
       "length": 19,
       "value": "\"EndingFaceCapture\""
     },
     {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-ios\/iOS_SPM\/AditionalSwift\/AKFaceSwift\/AKFaceCaptureSwift\/UI\/Module\/AKStepFaceCaptureViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4620,
+      "offset": 4746,
       "length": 1,
       "value": "1"
     },
@@ -1547,42 +1659,42 @@
     {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-ios\/iOS_SPM\/AditionalSwift\/AKFaceSwift\/AKFaceCaptureSwift\/UI\/Module\/AKStepFaceCaptureViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5745,
+      "offset": 5871,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-ios\/iOS_SPM\/AditionalSwift\/AKFaceSwift\/AKFaceCaptureSwift\/UI\/Module\/AKStepFaceCaptureViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5946,
+      "offset": 6072,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-ios\/iOS_SPM\/AditionalSwift\/AKFaceSwift\/AKFaceCaptureSwift\/UI\/Module\/AKStepFaceCaptureViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6678,
+      "offset": 6804,
       "length": 4,
       "value": "\"Ok\""
     },
     {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-ios\/iOS_SPM\/AditionalSwift\/AKFaceSwift\/AKFaceCaptureSwift\/UI\/Module\/AKStepFaceCaptureViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6794,
+      "offset": 6920,
       "length": 16,
       "value": "\"InvalidCapture\""
     },
     {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-ios\/iOS_SPM\/AditionalSwift\/AKFaceSwift\/AKFaceCaptureSwift\/UI\/Module\/AKStepFaceCaptureViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7239,
+      "offset": 7365,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-ios\/iOS_SPM\/AditionalSwift\/AKFaceSwift\/AKFaceCaptureSwift\/UI\/Module\/AKStepFaceCaptureViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7277,
+      "offset": 7403,
       "length": 21,
       "value": "\"NotCaptureInitAlert\""
     },
