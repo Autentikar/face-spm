@@ -1,9 +1,9 @@
 # AKFaceSDK *by Autentikar*
-## version 1.4.3 :rocket:
+## version 1.4.4 :rocket:
 
 Autentikar Face Recognition SDK. 
 
 Works with `FaceTecSDK` framework.
 
 # Added
-* new customFont for views.
+* new bundleForLocalizableString property for custom strings.
