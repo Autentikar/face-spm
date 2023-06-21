@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		vtv7MHUWXGJCYPAW0mskquv4898=
+		JGPfBCQexnU8GJFJniyyC2b9BdY=
 		</data>
 		<key>Base.lproj/FaceTec.strings</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Frameworks/AKCoreSwift.framework/AKCoreSwift</key>
 		<data>
-		vH19klbLbgoftiuhONEZ7zKHYq4=
+		CNy4J7XMcxyUemSNSd/iBie2VhE=
 		</data>
 		<key>Frameworks/AKCoreSwift.framework/Assets.car</key>
 		<data>
-		O0KFIZnRjy5/R2RWStCiKCs+Ja8=
+		KM6A2Qc0UPz7P1gWd+NPBFSAdxI=
 		</data>
 		<key>Frameworks/AKCoreSwift.framework/Base.lproj/Localizable.strings</key>
 		<dict>
@@ -35,11 +35,11 @@
 		</dict>
 		<key>Frameworks/AKCoreSwift.framework/Info.plist</key>
 		<data>
-		rTFsEu4Ba94RfdbxHOE28hwyXoY=
+		GzDWCYf0lOX0+16Rk1KGJmRoFQQ=
 		</data>
 		<key>Frameworks/AKCoreSwift.framework/_CodeSignature/CodeResources</key>
 		<data>
-		QBgFPp2V8L4ZzZASGFrOvCWcbIo=
+		Hh4whiBwh8SoHJGrpD3o5ewIEqg=
 		</data>
 		<key>Frameworks/AKCoreSwift.framework/es-419.lproj/Localizable.strings</key>
 		<dict>
@@ -65,7 +65,7 @@
 		</data>
 		<key>Frameworks/FaceTecSDK.framework/FaceTecSDK</key>
 		<data>
-		odadL2sxIFSKf+k6bi+8SoolAbQ=
+		Z81iIi6fcTvgFt8Jz8rtxX61w10=
 		</data>
 		<key>Frameworks/FaceTecSDK.framework/GenericGuidanceContentLayout.nib</key>
 		<data>
@@ -312,7 +312,7 @@
 		</data>
 		<key>Headers/AKFaceCaptureSwift-Swift.h</key>
 		<data>
-		DDKXZb/uiJe79vu5Ze+KzBJMvDU=
+		ViPvjhVA2r23XlHj7Mf74I1LTgo=
 		</data>
 		<key>Headers/AKFaceCaptureSwift.h</key>
 		<data>
@@ -320,7 +320,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		C2GOyCcLyDQumsaegyDP7VQug6U=
+		IkJSZpK+htga2cMhQrfejvxNwUE=
 		</data>
 		<key>Modules/AKFaceCaptureSwift.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -328,19 +328,19 @@
 		</data>
 		<key>Modules/AKFaceCaptureSwift.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		em3xasKpYKerbiifFqPVaIQoaQI=
+		+r3c2OqupB3cvfoJTnZSenHfzcU=
 		</data>
 		<key>Modules/AKFaceCaptureSwift.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		odf/IcRoS9Xt3eH7M1HcYjrt1N0=
+		mlKX3Ku+9M536scW+uOc0S7wLB8=
 		</data>
 		<key>Modules/AKFaceCaptureSwift.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		em3xasKpYKerbiifFqPVaIQoaQI=
+		+r3c2OqupB3cvfoJTnZSenHfzcU=
 		</data>
 		<key>Modules/AKFaceCaptureSwift.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		fDKK8D1UNElDSP2hleKB3ip2mQw=
+		AyObRxPKovQE3IDoO9xfTw63xrU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -409,7 +409,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0/eWv05pu7c+ph3orKhQ8oaI2tVl6P8YXLHOf8S4I3A=
+			y+Vig2sCcjIlXHdkptugPAkAkx7bBA2r5+XpeLqHoW4=
 			</data>
 		</dict>
 		<key>Base.lproj/FaceTec.strings</key>
@@ -430,14 +430,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WymTzrzD1UE1TkSTsDC8G8LyHV8zlcdBKvK6ypoea/Y=
+			eo4OxOu/2icpzh1l7cBvJrSOKDpU2yTp4DWHr2tfOVI=
 			</data>
 		</dict>
 		<key>Frameworks/AKCoreSwift.framework/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iEiBD8fJjX5oocOMa9g9DsM8qPND2AHmRnlapUMKoZY=
+			aYoSjRi3i/76Dbk0+F6krxeq7ib8ZAJahNUvge0Ed9k=
 			</data>
 		</dict>
 		<key>Frameworks/AKCoreSwift.framework/Base.lproj/Localizable.strings</key>
@@ -453,14 +453,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aq5nPwFwIvUo59OOcuFDtrBNRzrXAXV6K4ud4dopmyM=
+			e2OeEe89YeMFdjYevwouCjEqWlR7k01WogO8Kxf2eKI=
 			</data>
 		</dict>
 		<key>Frameworks/AKCoreSwift.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			41K8vcCbaNU7Sjm6Qh0DTZ4rFWHxDMeyYTHtsBGzEXk=
+			W0zTnt1IK8+Md594Ck45UPxA09XBM4zEVcjiAyIFmh8=
 			</data>
 		</dict>
 		<key>Frameworks/AKCoreSwift.framework/es-419.lproj/Localizable.strings</key>
@@ -492,7 +492,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hQ/YfeOt8PqM4bsngnCm7Z4N+heCRA+aZvKHgGuWV6g=
+			mQ1x2S77pd1uHdry2FJRWi3JoiI6nnpv+JCh2sZg5wk=
 			</data>
 		</dict>
 		<key>Frameworks/FaceTecSDK.framework/GenericGuidanceContentLayout.nib</key>
@@ -850,7 +850,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0eUWEGWerwrfBXKRu3hSNKiVEFinPx4FoyfBWC2uh40=
+			MZ436oJefb6nLUt7Y3TSsAgDRyaNxTR3MuMrEybstx0=
 			</data>
 		</dict>
 		<key>Headers/AKFaceCaptureSwift.h</key>
@@ -871,28 +871,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KDK72FOrbdy3iSbz3dG4ZNpvJSNjSJ871DZ5z8lCTF4=
+			OiEjBy3KvHyUxM04jKqmQxfaqj/VOVdbvJrgAiO1bFw=
 			</data>
 		</dict>
 		<key>Modules/AKFaceCaptureSwift.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RHBI6toRESqoNPNuWQKOP0MXWeY+ZgFIzqi2Qkoznvg=
+			XttHNeyjGbEGcKj17AqPTkQfSSdJZTNHkL23W2XBQ6s=
 			</data>
 		</dict>
 		<key>Modules/AKFaceCaptureSwift.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KDK72FOrbdy3iSbz3dG4ZNpvJSNjSJ871DZ5z8lCTF4=
+			OiEjBy3KvHyUxM04jKqmQxfaqj/VOVdbvJrgAiO1bFw=
 			</data>
 		</dict>
 		<key>Modules/AKFaceCaptureSwift.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8pkehNzaM6NH6DNe1ayNi/Poe40zMa5EVHHRL8THptc=
+			toav1t6rtFO3W0lPt4Daa/pi/J7uPjh73PtNoohpm2I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
