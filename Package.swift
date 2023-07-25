@@ -8,17 +8,22 @@ let package = Package(
     products: [
         .library(
             name: "AKFaceCaptureSwift",
-            targets: ["AKFaceCaptureSwift"]),
+            targets: ["AKFaceCaptureSwiftWrapper"]),
     ],
-    dependencies: [],
+    dependencies: [
+        .package(url: "https://github.com/Autentikar/faceTec-dependency.git", from: "9.6.43"),
+    ],
     targets: [
+        .target(
+            name: "AKFaceCaptureSwiftWrapper",
+            dependencies: [
+                .product(name: "FaceTecSDK", package: "faceTec-dependency"),
+                .target(name: "AKFaceCaptureSwift"),
+            ],
+            path: "AKFaceCaptureSwiftWrapper"
+        ),
         .binaryTarget(
             name: "AKFaceCaptureSwift",
-            path: "AKFaceCaptureSwift.xcframework"
-                ),
-        .binaryTarget(
-            name: "FaceTecSDK",
-            path: "FaceTecSDK.xcframework"
-        )
+            path: "AKFaceCaptureSwift.xcframework")
     ]
 )
