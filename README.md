@@ -1,5 +1,5 @@
 # AKFaceSDK *by Autentikar*
-## version 1.4.7 :rocket:
+## version 1.4.8 :rocket:
 
 Autentikar Face Recognition SDK. 
 
