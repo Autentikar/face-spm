@@ -13,8 +13,12 @@ let package = Package(
     dependencies: [],
     targets: [
         .binaryTarget(
-                    name: "AKFaceCaptureSwift",
-                    path: "AKFaceCaptureSwift.xcframework"
-                )
+            name: "AKFaceCaptureSwift",
+            path: "AKFaceCaptureSwift.xcframework"
+                ),
+        .binaryTarget(
+            name: "FaceTecSDK",
+            path: "FaceTecSDK.xcframework"
+        )
     ]
 )
