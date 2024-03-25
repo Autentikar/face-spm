@@ -11,7 +11,7 @@ let package = Package(
             targets: ["AKFaceCaptureSwiftWrapper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/Autentikar/faceTec-dependency.git", from: "9.6.60"),
+        .package(url: "https://github.com/Autentikar/faceTec-dependency.git", from: "9.6.81"),
     ],
     targets: [
         .target(

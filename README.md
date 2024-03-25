@@ -1,5 +1,5 @@
 # AKFaceSDK *by Autentikar*
-## version 1.4.12 :rocket:
+## version 1.4.13 :rocket:
 
 Autentikar Face Recognition SDK. 
 
@@ -7,4 +7,4 @@ Works with `FaceTecSDK` framework.
 
 # Updated
 * Minor improvements
-* Upgrade FaceTecSDK to 9.6.60.
+* Upgrade FaceTecSDK to 9.6.81.
