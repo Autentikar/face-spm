@@ -7,4 +7,4 @@ Works with `FaceTecSDK` framework.
 
 # Updated
 * Minor improvements
-* Upgrade FaceTecSDK to 9.7.62.
+* Upgrade FaceTecSDK to 9.7.67.
